@@ -1,0 +1,7 @@
+C:\Users\sam.chong62\source\repos\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\sam.chong62\source\repos\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\sam.chong62\source\repos\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\sam.chong62\source\repos\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\sam.chong62\source\repos\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\sam.chong62\source\repos\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\sam.chong62\source\repos\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
